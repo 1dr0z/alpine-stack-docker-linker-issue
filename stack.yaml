@@ -1,0 +1,5 @@
+resolver: lts-14.4
+
+docker:
+  enable: false  # Do not use docker by default
+  image: neoncrisis/alpine-haskell-gmp:8.6.5
